@@ -1,8 +1,10 @@
 # Hi, I'm TAmin6002 👋
 
 ## 💻 Languages
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30"/>
+</p>
 
 ## 🛠 Skills & Tools
 - Linux
