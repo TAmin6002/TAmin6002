@@ -25,5 +25,5 @@ A C++17 implementation of the Unmatched board game.
 - Networking
 
 ## 📫 Connect with me
-- [LinkedIn](www.linkedin.com/in/amin-torkaman-a4b957424)
+- [LinkedIn](www.linkedin.com/in/amintorkaman)
 
