@@ -14,4 +14,6 @@ Focused on Backend Development with Golang
 - Currently learning and building projects
 
 ## 📫 Connect with me
-- LinkedIn: (لینکتو بذار)
+- LinkedIn: www.linkedin.com/in/amin-torkaman-a4b957424
+
+
