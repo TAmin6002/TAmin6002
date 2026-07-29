@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Amin 👋
 
-<!--
-**TAmin6002/TAmin6002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student  
+Focused on Backend Development with Golang
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Golang
+- C++
+- Linux
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Interested in backend systems and problem solving
+- Currently learning and building projects
+
+## 📫 Connect with me
+- LinkedIn: (لینکتو بذار)
