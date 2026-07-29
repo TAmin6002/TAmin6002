@@ -1,8 +1,8 @@
 # Hi, I'm TAmin6002 👋
 
 ## 💻 Languages
-- C++
-- Golang
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
 ## 🛠 Skills & Tools
 - Linux
