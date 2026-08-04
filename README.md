@@ -16,8 +16,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" title="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="48" title="Networking"/>
 </p>
----
+
+<p align="left">
+  <b>Linux</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Git</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>CMake</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>PostgreSQL</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Docker</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Networking</b>
+</p>
+
 ## 🚀 Featured Projects
+
 ### Unmatched — Card Game Engine
 A C++17 implementation of the Unmatched board game.
 
