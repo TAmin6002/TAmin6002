@@ -7,11 +7,12 @@
 </p>
 
 ## 🛠 Skills & Tools
-- Linux
-- Git
-- CMake
-- raylib
-- ftxui
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-2E8B57?style=for-the-badge&logo=wireguard&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🚀 Featured Projects
 ### Unmatched — Card Game Engine
