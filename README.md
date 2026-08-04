@@ -29,8 +29,6 @@
 * 🔒 **Offensive & Defensive Security** & Vulnerability Research
 * 🌐 Advanced Low-Level Networking & Protocols
 * ⚙️ High-Performance Go Backend Development
-
----
 ---
 ##
 ![Radar Scan](assets/radar_scan.svg)
