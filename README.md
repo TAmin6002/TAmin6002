@@ -9,9 +9,7 @@
 ---
 
 ### 💻 Core Languages & Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,linux,docker,git,bash,vim&theme=dark" alt="Tech Stack" />
-</p>
+![Teach Srack](assets/teach_srack.svg)
 
 ---
 
