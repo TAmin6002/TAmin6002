@@ -33,10 +33,7 @@
 ##
 ![Radar Scan](assets/radar_scan.svg)
 
-![krsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAmin6002&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TAmin6002&layout=compact&theme=radical)
-
+![GitHub Stats](https://github-readme-stats-sigma-rouge.vercel.app/api?username=TAmin6002&show_icons=true&theme=radical)
 
 ### 📊 System Telemetry (GitHub Stats)
 
