@@ -8,7 +8,6 @@
 
 ## 🛠 Skills & Tools
 
-![Skills & Tools](assets/p.svg)
 
 ## 🚀 Featured Projects
 
