@@ -8,7 +8,9 @@
 
 ## 🛠 Skills & Tools
 
-![Skills & Tools](./assets/skills-tools-green.svg)
+<p align="center">
+  <img src="./skills-tools-green.svg" alt="Skills & Tools" width="900">
+</p>
 
 ## 🚀 Featured Projects
 
