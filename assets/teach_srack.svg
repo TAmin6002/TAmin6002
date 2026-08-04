@@ -1,1 +1,135 @@
 
+<svg width="900" height="470" viewBox="0 0 900 470" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5B8C6E"/>
+      <stop offset="100%" stop-color="#6EE7A8"/>
+    </linearGradient>
+    <linearGradient id="accentH" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5B8C6E"/>
+      <stop offset="100%" stop-color="#6EE7A8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="0%" r="75%">
+      <stop offset="0%" stop-color="#5B8C6E" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#5B8C6E" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#1C2230"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="470" fill="#0B0E14"/>
+  <rect width="900" height="470" fill="url(#dots)"/>
+  <rect width="900" height="220" fill="url(#glow)"/>
+
+  <!-- header -->
+  <text x="28" y="48" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="19" fill="#6EE7A8">
+    <tspan fill="#5B8C6E">➜</tspan> amin <tspan fill="#7D8590">/stack</tspan>
+  </text>
+
+  <!-- LANGUAGES label -->
+  <text x="28" y="92" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="14" fill="#5B8C6E" letter-spacing="3">[ LANGUAGES ]</text>
+
+  <!-- Go -->
+  <g transform="translate(28, 104)">
+    <rect width="410" height="64" rx="14" fill="#131720" stroke="#232838" stroke-width="1"/>
+    <circle cx="32" cy="32" r="22" fill="url(#badgeGrad)"/>
+    <g transform="translate(20, 20)" stroke="#0B0E14" stroke-width="2.2" fill="none">
+      <polygon points="12,1 22,7 22,18 12,24 2,18 2,7"/>
+      <circle cx="12" cy="12" r="2.3" fill="#0B0E14" stroke="none"/>
+    </g>
+    <text x="70" y="28" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">Go</text>
+    <text x="70" y="48" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#7D8590">backend runtime</text>
+  </g>
+
+  <!-- C++ -->
+  <g transform="translate(462, 104)">
+    <rect width="410" height="64" rx="14" fill="#131720" stroke="#232838" stroke-width="1"/>
+    <circle cx="32" cy="32" r="22" fill="url(#badgeGrad)"/>
+    <text x="20" y="39" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#0B0E14">&lt;/&gt;</text>
+    <text x="70" y="28" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">C++</text>
+    <text x="70" y="48" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#7D8590">systems &amp; performance</text>
+  </g>
+
+  <!-- TOOLS & SKILLS label -->
+  <text x="28" y="200" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="14" fill="#6EE7A8" letter-spacing="3">[ TOOLS &amp; SKILLS ]</text>
+
+  <!-- Linux -->
+  <g transform="translate(28, 214)">
+    <rect width="410" height="64" rx="14" fill="#131720" stroke="#232838" stroke-width="1"/>
+    <circle cx="32" cy="32" r="22" fill="url(#badgeGrad)"/>
+    <text x="19" y="39" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="16" font-weight="700" fill="#0B0E14">&gt;_</text>
+    <text x="70" y="28" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">Linux</text>
+    <text x="70" y="48" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#7D8590">daily driver</text>
+  </g>
+
+  <!-- Git -->
+  <g transform="translate(462, 214)">
+    <rect width="410" height="64" rx="14" fill="#131720" stroke="#232838" stroke-width="1"/>
+    <circle cx="32" cy="32" r="22" fill="url(#badgeGrad)"/>
+    <g transform="translate(21, 18)" stroke="#0B0E14" stroke-width="2.2" fill="none">
+      <line x1="7" y1="2" x2="7" y2="26"/>
+      <path d="M7,15 C7,21 13,21 13,21 L20,21"/>
+      <circle cx="7" cy="2" r="2.4" fill="#0B0E14" stroke="none"/>
+      <circle cx="7" cy="26" r="2.4" fill="#0B0E14" stroke="none"/>
+      <circle cx="20" cy="21" r="2.4" fill="#0B0E14" stroke="none"/>
+    </g>
+    <text x="70" y="28" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">Git</text>
+    <text x="70" y="48" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#7D8590">version control</text>
+  </g>
+
+  <!-- Docker -->
+  <g transform="translate(28, 292)">
+    <rect width="410" height="64" rx="14" fill="#131720" stroke="#232838" stroke-width="1"/>
+    <circle cx="32" cy="32" r="22" fill="url(#badgeGrad)"/>
+    <g transform="translate(17, 19)" fill="#0B0E14" stroke="none">
+      <rect x="0" y="13" width="30" height="8" rx="1.5"/>
+      <rect x="4" y="5" width="8" height="7" rx="1.5"/>
+      <rect x="14" y="5" width="8" height="7" rx="1.5"/>
+      <rect x="9" y="-3" width="8" height="7" rx="1.5"/>
+    </g>
+    <text x="70" y="28" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">Docker</text>
+    <text x="70" y="48" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#7D8590">containers</text>
+  </g>
+
+  <!-- Postgres -->
+  <g transform="translate(462, 292)">
+    <rect width="410" height="64" rx="14" fill="#131720" stroke="#232838" stroke-width="1"/>
+    <circle cx="32" cy="32" r="22" fill="url(#badgeGrad)"/>
+    <g transform="translate(20, 17)" fill="none" stroke="#0B0E14" stroke-width="2.2">
+      <ellipse cx="12" cy="5" rx="11" ry="4.5"/>
+      <path d="M1,5 L1,23 C1,26 6,28 12,28 C18,28 23,26 23,23 L23,5"/>
+      <path d="M1,14 C1,17 6,19 12,19 C18,19 23,17 23,14"/>
+    </g>
+    <text x="70" y="28" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">Postgres</text>
+    <text x="70" y="48" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#7D8590">database</text>
+  </g>
+
+  <!-- Network -->
+  <g transform="translate(28, 370)">
+    <rect width="410" height="64" rx="14" fill="#131720" stroke="#232838" stroke-width="1"/>
+    <circle cx="32" cy="32" r="22" fill="url(#badgeGrad)"/>
+    <g transform="translate(19, 18)" fill="#0B0E14" stroke="#0B0E14" stroke-width="2">
+      <line x1="13" y1="4" x2="3" y2="23"/>
+      <line x1="13" y1="4" x2="23" y2="23"/>
+      <line x1="3" y1="23" x2="23" y2="23"/>
+      <circle cx="13" cy="4" r="3.4" stroke="none"/>
+      <circle cx="3" cy="23" r="3.4" stroke="none"/>
+      <circle cx="23" cy="23" r="3.4" stroke="none"/>
+    </g>
+    <text x="70" y="28" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">Network</text>
+    <text x="70" y="48" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#7D8590">networking</text>
+  </g>
+
+  <!-- Web Security -->
+  <g transform="translate(462, 370)">
+    <rect width="410" height="64" rx="14" fill="#131720" stroke="#232838" stroke-width="1"/>
+    <circle cx="32" cy="32" r="22" fill="url(#badgeGrad)"/>
+    <g transform="translate(20, 17)" fill="none" stroke="#0B0E14" stroke-width="2.2">
+      <path d="M12,0 L23,4 L23,13 C23,20 18,25 12,28 C6,25 1,20 1,13 L1,4 Z"/>
+      <path d="M6,13 L10,17 L18,8"/>
+    </g>
+    <text x="70" y="28" font-family="-apple-system, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#E6EDF3">Web Security</text>
+    <text x="70" y="48" font-family="ui-monospace, Consolas, Menlo, monospace" font-size="12" fill="#7D8590">appsec</text>
+  </g>
+</svg>
