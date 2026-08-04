@@ -1,7 +1,5 @@
-<!-- Cybersecurity Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f19&height=200&section=header&text=AMIN%20TORKAMAN&fontSize=42&fontColor=00FF66&animation=fadeIn&fontAlignY=50&desc=Cybersecurity%20&%20Systems%20Developer&descSize=16&descColor=00df89&stroke=00FF66&strokeWidth=2" width="100%"/>
-</p>
+![Banner](assets/banner.svg)
+
 
 <!-- Terminal Typing Effect -->
 <p align="center">
