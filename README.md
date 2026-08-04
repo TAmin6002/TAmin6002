@@ -24,10 +24,6 @@
 </div>
 
 ---
-##
-![Radar Scan](assets/radar_scan.svg)
-
----
 
 ### 📚 Currently Exploring
 * 🔒 **Offensive & Defensive Security** & Vulnerability Research
@@ -35,6 +31,10 @@
 * ⚙️ High-Performance Go Backend Development
 
 ---
+---
+##
+![Radar Scan](assets/radar_scan.svg)
+
 
 ### 📊 System Telemetry (GitHub Stats)
 
