@@ -37,14 +37,7 @@
 
 ### 📊 System Telemetry (GitHub Stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAmin6002&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0b0f19&title_color=00FF66&icon_color=00FF66&text_color=ffffff" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAmin6002&theme=vue-dark&hide_border=true&background=0b0f19&stroke=00FF66&sideRing=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="GitHub Streak" />
-</p>
-
+![Radar Scan](assets/radar_scan.svg)
 ---
 
 ### 🛰️ Connect with Me
