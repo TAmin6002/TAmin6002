@@ -24,8 +24,10 @@
 </div>
 
 ---
-
+##
 [Radar Scan](assets/radar_scan.svg)
+
+---
 
 ### 📚 Currently Exploring
 * 🔒 **Offensive & Defensive Security** & Vulnerability Research
