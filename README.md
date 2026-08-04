@@ -25,7 +25,7 @@
 
 ---
 ##
-[Radar Scan](assets/radar_scan.svg)
+![Radar Scan](assets/radar_scan.svg)
 
 ---
 
