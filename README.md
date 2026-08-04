@@ -37,7 +37,7 @@
 
 ### 📊 System Telemetry (GitHub Stats)
 
-![Radar Scan](assets/radar_scan.svg)
+![Streak Stats](assets/teach_float.svg)
 ---
 
 ### 🛰️ Connect with Me
